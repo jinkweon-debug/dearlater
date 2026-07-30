@@ -1,6 +1,6 @@
 # tellanew.com
 
-The public site for Tellanew: landing page, privacy policy, support page.
+The public site for Tell Anew: landing page, privacy policy, support page.
 Served by GitHub Pages from the `main` branch, root folder.
 
 No build step, no dependencies, no scripts, no cookies. Three static pages and
